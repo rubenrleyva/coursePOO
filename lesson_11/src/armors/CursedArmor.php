@@ -4,8 +4,9 @@ namespace Rubenrl\Armors;
 
 use Rubenrl\Attack;
 
-class EvasionArmor extends Armor
+class CursedArmor extends Armor
 {
+
     protected $absor = 1;
 
     public function getAbsort()
@@ -16,13 +17,5 @@ class EvasionArmor extends Armor
     public function absorbPhysicalDamage(Attack $attack)
     {
         return $attack->getDamage() /$this->absor;
-    }
-
-    public function absorDamage($damage)
-    {
-        if (rand(0,1)){
-            return 0;
-        }
-        return $damage;
     }
 }
