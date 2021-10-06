@@ -1,0 +1,15 @@
+(2021-10-06 09:26:07) Ram obtiene una armadura de 2 puntos
+(2021-10-06 09:26:07) Ram obtiene una armadura de 3 puntos
+(2021-10-06 09:26:07) Silence obtiene una armadura de 3 puntos
+(2021-10-06 09:26:07) Silence dispara una flecha de fuego a Ram
+(2021-10-06 09:26:07) Absorbing damage...
+(2021-10-06 09:26:07) Ram ahora tiene 55 puntos de vida
+(2021-10-06 09:26:07) Silence dispara una flecha de fuego a Ram
+(2021-10-06 09:26:07) Absorbing damage...
+(2021-10-06 09:26:07) Ram ahora tiene 10 puntos de vida
+(2021-10-06 09:26:07) Ram dispara una flecha de fuego a Silence
+(2021-10-06 09:26:07) Absorbing damage...
+(2021-10-06 09:26:07) Silence ahora tiene 55 puntos de vida
+(2021-10-06 09:26:07) Silence dispara una flecha de fuego a Ram
+(2021-10-06 09:26:07) Absorbing damage...
+(2021-10-06 09:26:07) Ram muere
