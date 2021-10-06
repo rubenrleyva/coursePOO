@@ -1,0 +1,19 @@
+{
+    "name": "rubenrl/lesson_12",
+    "description": "Lecci\u0000n 12 POO",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "files": ["src/helper.php"],
+        "psr-4": {
+            "Rubenrl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RubenRL",
+            "email": "rubenarleyva@gmail.com"
+        }
+    ],
+    "require": {}
+}
