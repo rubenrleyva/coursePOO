@@ -1,0 +1,18 @@
+{
+    "name": "rubenrl/lesson_17",
+    "description": "Lecci\u0000n 17 de POO",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RubenRL",
+            "email": "rubenarleyva@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lesson_17\\": "src/"
+        }
+    }
+}
