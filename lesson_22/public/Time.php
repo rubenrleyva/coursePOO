@@ -17,17 +17,17 @@ class Time
 
     public function tomorrow()
     {
-        return new Time($this->time + 24*60*60);
+        return new index($this->time + 24*60*60);
     }
 
     public function yesterday()
     {
-        return new Time($this->time - 24*60*60);
+        return new index($this->time - 24*60*60);
     }
 }
 
-$today = new Time();
-$today2 = new Time();
+$today = new index();
+$today2 = new index();
 
 echo "<p>Hoy es {$today2}</p>";
 echo "<p>Mañana será {$today->tomorrow()}</p>";
