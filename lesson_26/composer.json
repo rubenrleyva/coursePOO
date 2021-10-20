@@ -1,0 +1,20 @@
+{
+    "name": "rubenrl/lesson_26",
+    "description": "Lecci\u0000n 26 de POO",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RubenRL",
+            "email": "rubenarleyva@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.53"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lesson_26\\": "src/"
+        }
+    }
+}
