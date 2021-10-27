@@ -1,0 +1,1 @@
+{"version":1,"defects":{"StrTest::test_test":3,"StrTest::test_studly_method_convert_strings":4,"Lesson_28\\ArrayAccessTest::test_a_model_has_array_access":3},"times":{"StrTest::test_test":0.003,"StrTest::test_studly_method_convert_strings":0,"Lesson_28\\ArrayAccessTest::test_a_model_has_array_access":0.003}}
